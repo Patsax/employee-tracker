@@ -29,6 +29,6 @@ VALUES
     (10, 'Cora', 'Namor', 5, NULL),
     (11, 'Kimberly', 'Feldon',5, NULL),
     (12, 'Gemma', 'Simmons', 6, NULL),
-    (13, 'Rebecca', 'Meier', 7, 6),
-    (14, 'Albert', 'Wesker', 7, 6),
-    (15, 'Misha', 'Yovovich', 7, 6);
+    (13, 'Rebecca', 'Meier', 7, 12),
+    (14, 'Albert', 'Wesker', 7, 12),
+    (15, 'Misha', 'Yovovich', 7, 12);
